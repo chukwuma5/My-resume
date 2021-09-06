@@ -18,7 +18,7 @@ This work is done for the basic practise of html, css and java-script. I used ht
          - PRACTISE DESIGNING OF LAYOUT'S INFORM OF SEMANTIC DISPLAYS(SECTIONS, DIV'S, SPAN etc.)
          - PRACTISE HOW TO USE THE CREATE A BASIC HTML FORM STRUCTURE 
 
-  <img src="stroke.png">                                        
+  <img src="sroke.png">                                        
          
           OVERVIEW(/.css/)
          - PRACTISE MAKING USE OF DISPLAY AND THE POSITION PROPERTY
