@@ -97,7 +97,7 @@ background-color: #f5deb3;
 overflow-x: hidden;
     }
     .navlinks{
-        position: absolute;
+        position: fixed;
         right: 0px;
         height: 92vh;
         top: 8vh;
@@ -118,7 +118,7 @@ overflow-x: hidden;
 
     .nav-active{
         transform: translateX(0%);
-        overflow-x: hidden;
+        overflow: hidden;
     }
 
     @keyframes navLinkFade{
