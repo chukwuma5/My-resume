@@ -97,10 +97,11 @@ background-color: #f5deb3;
 overflow-x: hidden;
     }
     .navlinks{
-        position: fixed;
+        position: absolute;
         right: 0px;
         height: 92vh;
         top: 8vh;
+        bottom: 20px;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -117,6 +118,7 @@ overflow-x: hidden;
 
     .nav-active{
         transform: translateX(0%);
+        overflow-x: hidden;
     }
 
     @keyframes navLinkFade{
@@ -725,7 +727,7 @@ font-size: 20px;
 }
 
 .showcase4 .done:hover{
-    transform: scale(1.07);
+    transform: scale(1.05);
 }
 
 .showcase3 .done{
@@ -734,7 +736,7 @@ font-size: 20px;
 
 
 .showcase3 .done:hover{
-    transform: scale(1.07);
+    transform: scale(1.05);
 }
 
 @media (max-width:550px){
