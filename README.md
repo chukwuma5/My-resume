@@ -9,5 +9,5 @@ Built with HTML/CSS/JS
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 Most open source projects use the MIT license. Feel free to choose whichever license you prefer.
-This project is open and is fully free to use the source codes
+This project is open and is fully free to use the source codes.
 
