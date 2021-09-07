@@ -53,11 +53,11 @@ This work is done for the basic practise of html, css and java-script. I used ht
    ## Built with         
       -HTML(Hypertext Mark-up Language)
       -CSS(Cascading Styles Sheet)
-      Js(Java-script)
+      -JS(Java-script)
 
 
    ## My Challanges and lessons
-Learnt how to display elements with proper grid systems and making them responsive on mobile view, and also the nav-bar functioned by js was quite interseting with little defects at the beginning due to wrong assignment of classes to the functions.
+  Learnt how to display elements with proper grid systems and making them responsive on mobile view, and also the nav-bar functioned by js was quite interseting with little          defects at the beginning due to wrong assignment of classes to the functions.
             
    ## Installations
    -For those Farmiliar with Git-hub you can clone the repo and pull to your local workplace to view.
