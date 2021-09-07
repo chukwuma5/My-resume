@@ -66,6 +66,7 @@ This work is done for the basic practise of html, css and java-script. I used ht
 
    ## Resources that helped ##
    -For the Colors[https://coolors.co/palettes/trending/blue]
+   
    -for the fontfamily[https://fonts.google.com/]
    
    ## Best syntax Used
